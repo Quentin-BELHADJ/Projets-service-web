@@ -1,0 +1,2 @@
+npm install bcrypt connect-pg-simple cors dotenv express express-session passport passport-local pg pg-hstore sequelize
+npm run serve
